@@ -302,7 +302,7 @@ TBLPROPERTIES ('parquet.compression'='SNAPPY');
 
 INSERT INTO proveedor
 SELECT
-	IdProveedor	,
+	IdProveedor,
 	Nombre,
 	Direccion,
 	Ciudad,
