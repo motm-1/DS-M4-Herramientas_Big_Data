@@ -280,6 +280,7 @@ SELECT
 	fecha,
 	anio,
 	mes,
+	dia,
 	trimestre,
 	semana,
 	dia_nombre,
